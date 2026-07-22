@@ -1,3 +1,3 @@
 # DSA-Practice
-Trying to solve minimum possible questions and solve their logics. <br> Gradually moves towards advance questions. 👍🥳
+Trying to solve minimum possible questions and solve their logics. <br> Gradually moves towards advance questions. 👍🥳<br> Here i'm trying to push all of my practicing journey DSA questions and their solutions respectively, so stay tuned.... 
 <br> <br> Author -- Satyanarayan Behera
